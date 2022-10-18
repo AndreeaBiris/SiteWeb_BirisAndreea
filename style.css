@@ -1,0 +1,136 @@
+.imagine {
+    position: relative;
+    text-align: center;
+    color: saddlebrown;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 490%;
+    opacity: 1.0;
+  }
+.centered {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .centeredS {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Permanent Marker', cursive;
+    font-size: 45%;
+  }
+ .first{
+    color: saddlebrown;
+    text-align: center;
+  }
+  .avatar{
+    margin-left: 40%;
+    margin-bottom: 1%;
+    height: 250px;
+    border-radius: 50%;
+  }
+  .second{
+    color: maroon;
+    text-align: center;
+  }
+  .container {
+    position: relative;
+    text-align: left;
+    color: darkred
+  }
+  .over{
+    position: absolute;
+    top: 150px;
+    right: 60px;
+  }
+  .top-left {
+    position: absolute;
+    top: 50px;
+    left: 620px;
+    font-size: 300%;
+    font-family: 'Permanent Marker', cursive;
+  }
+  .bottom-left {
+    position: absolute;
+    bottom: 400px;
+    left: 35px;
+    font-size: 160%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .bottom-right {
+    position: absolute;
+    bottom: 400px;
+    top:250px;
+    left:35px;
+    right: 500px
+  }
+  hr {
+    border:none;
+    border-top: 8px dotted rgb(176, 8, 8); 
+    color:#fff;
+    background-color:#fff;
+    height:1px;
+    width:5%;
+  }
+  .third{
+    color: saddlebrown;
+    text-align: center;
+    font-size: 200%;
+  }
+  .button {
+    background-color: #a82118;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    margin-left: 45%;
+  }
+  .button:hover {
+    background-color: #a24a38
+  }
+
+.button:active {
+  background-color: #a82118;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+.contacteaza{
+  position: relative;
+}
+.linkunu{
+  position: absolute;
+  top: 50px;
+  left: 620px;
+  font-size: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.linkdoi{
+  position: absolute;
+  bottom: 30px;
+  left: 650px;
+  font-size: 70%;
+  font-family: Arial, Helvetica, sans-serif;
+}
